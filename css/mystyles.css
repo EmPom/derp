@@ -1,0 +1,48 @@
+header{
+    background-image: url(https://i.ibb.co/ZHSQf1K/Derp-Visits-Earth.jpg) !important;
+}
+body{
+    background-color: lemonchiffon;
+}
+h1{
+    font-family: 'Ink Free', 'Calibri', 'Sans-serif';
+        color: black;
+}
+h2{
+    font-family: 'Ink Free', 'Calibri', 'Sans-serif';
+        color: rgb(27, 42, 48);
+        font-style: italic;
+}
+
+
+/*div styles*/
+.common{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.middle{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: -1;
+    text-align: center;
+    background-color: beige;
+    font-style: italic;
+    font-weight: bold;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
